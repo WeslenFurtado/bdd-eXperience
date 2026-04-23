@@ -76,7 +76,6 @@ Neste cenário, o sistema apresenta corretamente uma mensagem de indisponibilida
 ---
 
 ## 📂 Estrutura do projeto
-
 ```
 features/
 ├── catalogo.feature
@@ -86,7 +85,6 @@ features/
 logs/
 ├── screenshots/
 ```
-
 ---
 
 ## ▶️ Como executar o projeto
@@ -102,7 +100,7 @@ bundle install
 ```bash
 cucumber
 ```
---- 
+---
 
 ## 📊 Objetivo
 
