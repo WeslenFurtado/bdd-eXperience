@@ -76,3 +76,40 @@ Neste cenário, o sistema apresenta corretamente uma mensagem de indisponibilida
 ---
 
 ## 📂 Estrutura do projeto
+
+```
+features/
+├── catalogo.feature
+├── cupom.feature
+├── step_definitions/
+├── support/
+logs/
+├── screenshots/
+```
+
+---
+
+## ▶️ Como executar o projeto
+
+### 1. Instalar dependências
+
+```bash
+bundle install
+```
+
+### 2. Executar os testes
+
+```bash
+cucumber
+```
+--- 
+
+## 📊 Objetivo
+
+Demonstrar a utilização de BDD na automação de testes, promovendo melhor comunicação entre negócio e tecnologia, além de garantir qualidade através de testes automatizados.
+
+---
+
+## 💡 Observações
+
+Este projeto foi desenvolvido com foco em aprendizado e evolução na área de Qualidade de Software.
